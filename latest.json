@@ -1,14 +1,14 @@
 {
-  "versionName": "1.0.1",
-  "versionCode": 10001,
+  "versionName": "1.1.0",
+  "versionCode": 10100,
   "channel": "stable",
   "changelog": [
-    "扩充「每日一句」内容，句子更丰富",
-    "新增「检查更新」入口，版本与发布渠道改为中文展示",
-    "修复并完善与更新相关的体验与稳定性"
+    "全新玻璃质感视觉层：首页、学习、词库与设置统一升级",
+    "五种主题重新调校配色与表面质感：沉浸风景 / 米白极简 / 深色森林 / 纸张风 / 自定义背景",
+    "「纸张风」保持纯净纸感：不叠加任何玻璃模糊（含学习页控件）",
+    "新增装饰性背景光斑与启动动画环，整体观感更连贯"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.0.1/NotingWord-1.0.1.apk",
-  "sha256": "5a0c3d5e1d7ddbcd213ad95e822ecf79e0da36ef6dbe9a12c2f821a78a7d2c66",
-  "publishedAt": "2026-09-20T02:39:15Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.1.0/NotingWord-1.1.0.apk",
+  "sha256": "932e8dcc0396068aa7fe93acb61c25c1f4cf0bbf8c4c07b4b10bfb363f21c9d4",
+  "publishedAt": "2026-09-20T14:22:30Z"
 }
-
