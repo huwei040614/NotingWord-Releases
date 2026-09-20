@@ -1,19 +1,14 @@
 {
-  "versionName": "1.0.0",
-  "versionCode": 10000,
+  "versionName": "1.0.1",
+  "versionCode": 10001,
   "channel": "stable",
   "changelog": [
-    "单词 / 短语记忆：认识、模糊、忘记了三种判断，按复习阶段安排复习",
-    "词库管理：多词库、导入、进度统计、收藏与词条详情",
-    "图片识别导入：选择图片后自动整理成新词库",
-    "系统例句卡片：左右滑动或箭头切换多个例句",
-    "AI 释义与例句：可自行配置 AI Provider",
-    "每日一句：首页展示，间隔可调",
-    "5 套主题与自定义背景",
-    "完整备份导出与恢复，数据默认保存在本机"
+    "扩充「每日一句」内容，句子更丰富",
+    "新增「检查更新」入口，版本与发布渠道改为中文展示",
+    "修复并完善与更新相关的体验与稳定性"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.0.0/NotingWord-1.0.0.apk",
-  "sha256": "95885c3730ad9f771e476cef6a0ce7118115fc54de4291451ee92bc84c5d6666",
-  "publishedAt": "2026-09-20T01:46:53.896Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.0.1/NotingWord-1.0.1.apk",
+  "sha256": "5a0c3d5e1d7ddbcd213ad95e822ecf79e0da36ef6dbe9a12c2f821a78a7d2c66",
+  "publishedAt": "2026-09-20T02:39:15Z"
 }
 
