@@ -1,15 +1,16 @@
 {
-  "versionName": "1.3.0",
-  "versionCode": 10300,
+  "versionName": "1.4.0",
+  "versionCode": 10400,
   "channel": "stable",
   "changelog": [
-    "新增 PDF、图片和 URL 文章导入，扫描内容可通过 OCR 提取文字",
-    "新增结构化离线 Reader 与阅读进度保存",
-    "长按单词可查词、加入词汇并回跳文章语境",
-    "云端英中词典按需查询，已缓存词典数据可离线使用",
-    "私人文章可选云同步，完整备份与恢复现包含 Reader 文章和进度"
+    "Reader 双击选中整句与 Android 选区优化",
+    "中文 AI 句子解析与已解析内容即时重看",
+    "Dictionary 未收录安全释义时可主动使用标明来源的 AI 释义",
+    "单词、短语、句子笔记高亮及顶部半屏详情",
+    "翻译、解析、问 AI；已缓存内容支持离线查看"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.3.0/NotingWords-1.3.0.apk",
-  "sha256": "336d7f3ee3cec759ea22a9b59b41ecdf413df0f92e5288e224d44262d565ad57",
-  "publishedAt": "2026-09-28T09:54:08Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.4.0/NotingWords-1.4.0.apk",
+  "sha256": "42fb0386e75a78f79d30adb8a48db68978930a3ceb9edb624449aac1ed624342",
+  "publishedAt": "2026-09-28T17:30:06Z",
+  "size": 54143233
 }
