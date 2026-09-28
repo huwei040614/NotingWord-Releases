@@ -1,19 +1,15 @@
 {
-  "versionName": "1.2.0",
-  "versionCode": 10200,
+  "versionName": "1.3.0",
+  "versionCode": 10300,
   "channel": "stable",
   "changelog": [
-    "新增可选账号：使用邀请码注册，注册必须完成邮箱验证后才能登录",
-    "注册邮件中的验证链接固定指向生产站点地址，不再由运行环境决定",
-    "云端备份是手动操作：由你在设置中主动上传、还原或删除；本地数据库始终是唯一事实来源",
-    "云端备份按账号隔离，只能访问属于自己的备份",
-    "备份内容不包含 API Key、视觉模型标识与 AI 用量统计",
-    "移动端交互控件的最小可点尺寸统一提升到 48dp",
-    "正式安装包的 WebView 远程调试关闭（由构建类型派生，release 包恒为关闭）",
-    "更新流程保持「外部浏览器下载 + Android 系统安装器」，应用不申请安装未知应用权限",
-    "修正正式渠道标识：1.2.0 属于稳定渠道，已安装的稳定版用户可以正常收到这一版更新"
+    "新增 PDF、图片和 URL 文章导入，扫描内容可通过 OCR 提取文字",
+    "新增结构化离线 Reader 与阅读进度保存",
+    "长按单词可查词、加入词汇并回跳文章语境",
+    "云端英中词典按需查询，已缓存词典数据可离线使用",
+    "私人文章可选云同步，完整备份与恢复现包含 Reader 文章和进度"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.2.0/NotingWord-1.2.0.apk",
-  "sha256": "1292ab86fce275f1fbd74f58799f9a30374c0155f85ed17edd4707bf302e217d",
-  "publishedAt": "2026-09-22T10:12:30Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.3.0/NotingWords-1.3.0.apk",
+  "sha256": "336d7f3ee3cec759ea22a9b59b41ecdf413df0f92e5288e224d44262d565ad57",
+  "publishedAt": "2026-09-28T09:54:08Z"
 }
