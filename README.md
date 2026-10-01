@@ -1,6 +1,15 @@
 # NotingWord-Releases
 NotingWord release distribution and update metadata. Source code is not stored here.
 
+## NotingWords 1.5.0
+
+The public release assets are tied to the private NotingWords source commit
+`97da5e97e2ebe688222189cd2b837a7c66ae0098` (`v1.5.0`), with Android
+versionCode `10500`. Phase 18 was frozen at
+`85912f6a952f57da0d4d52eb30f58d993ef60d42` after the final Android manual test passed.
+This repository contains release metadata and downloads only;
+the source history remains in `huwei040614/NotingWords`.
+
 ## NotingWords 1.4.0
 
 The public release assets are tied to the private NotingWords source commit

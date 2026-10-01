@@ -1,0 +1,25 @@
+{
+  "versionName": "1.5.0",
+  "versionCode": 10500,
+  "applicationId": "com.dongcidaci.app",
+  "channel": "stable",
+  "tag": "v1.5.0",
+  "sourceRepository": "huwei040614/NotingWords",
+  "sourceCommit": "97da5e97e2ebe688222189cd2b837a7c66ae0098",
+  "phase18FrozenHead": "85912f6a952f57da0d4d52eb30f58d993ef60d42",
+  "certificateSha256": "DB:B6:82:80:A2:AF:02:E4:07:01:A6:1F:C9:C3:59:1E:AD:2E:60:D7:52:C3:69:71:72:65:3B:7C:1B:C2:C1:B9",
+  "artifacts": [
+    {
+      "name": "NotingWords-1.5.0.apk",
+      "size": 54224090,
+      "sha256": "26ab4f747660aa771d08502e21ad5dc7903cbd35f522ac343a2e844a2ed87efa"
+    },
+    {
+      "name": "NotingWords-1.5.0.aab",
+      "size": 29582030,
+      "sha256": "0cb278258e3fc36473d586cd7e73c997f25ef2fdf90f1e9fc596b54a13b1b695"
+    }
+  ],
+  "googlePlayUploaded": false
+}
+
