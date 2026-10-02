@@ -23,3 +23,7 @@ The public release assets are tied to the private NotingWords source commit
 `da4a16aef72d29740c0677fe51f573dc15d7c88e` (`v1.3.0`). This repository
 contains release metadata and downloads only; the source history remains in
 `huwei040614/NotingWords`.
+
+## Content Admin console
+
+The `/admin/` directory contains the compiled Phase 19 Web admin entry. All administrative APIs require a server-verified admin identity. Ordinary accounts cannot manage content. Manual Admin Gate is pending; this deployment does not change the Android release, version, or update metadata.
