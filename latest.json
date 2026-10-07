@@ -1,20 +1,18 @@
 {
-  "versionName": "1.5.0",
-  "versionCode": 10500,
+  "versionName": "1.6.0",
+  "versionCode": 10600,
   "channel": "stable",
   "changelog": [
-    "新增外刊素材库，支持前三篇精选文章永久解锁与阅读权益",
-    "个人 PDF / 杂志先识别文章，再选择提取；支持数字、扫描与多栏正文",
-    "整篇审阅后一次保存，低置信度 OCR 提醒可按需处理",
-    "Reader 隐藏重复原页标签，更多菜单保留查看原页",
-    "英文长标题自然换行、正文两端对齐，Aa 阅读设置继续可用",
-    "简洁阅读首页与独立外刊素材库 / 我的阅读界面",
-    "我的阅读卡片长按管理，删除需要确认",
-    "保留查词、句子翻译与解析、AI 释义和笔记等精读功能",
-    "私人 PDF 不会自动进入公共素材库"
+    "全新的单词学习与复习体验，学习进度更清晰",
+    "先回忆再显示答案，支持认识、模糊和忘记三种判断",
+    "认识后可用“记错了”修正，再进入下一词",
+    "例句支持滑动浏览，新词自动隐藏答案",
+    "优化首页、词汇列表、来源和筛选返回体验",
+    "完善学习统计、复习计划与阅读查词联动",
+    "保留原有词库、复习记录、设置与备份兼容性"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.5.0/NotingWords-1.5.0.apk",
-  "sha256": "26ab4f747660aa771d08502e21ad5dc7903cbd35f522ac343a2e844a2ed87efa",
-  "publishedAt": "2026-10-01T18:19:10Z",
-  "size": 54224090
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.6.0/NotingWords-1.6.0.apk",
+  "sha256": "30bb757f20aa93d1bf8bae9aca7cbfd5e32cc3d1aff6484ce63a2b64f7dbbb6a",
+  "publishedAt": "2026-10-07T13:54:05Z",
+  "size": 54263559
 }
