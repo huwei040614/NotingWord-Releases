@@ -1,6 +1,18 @@
 # NotingWord-Releases
 NotingWord release distribution and update metadata. Source code is not stored here.
 
+## NotingWords 1.7.1
+
+优化不同长度释义下的卡片布局与阅读体验。
+短内容保持紧凑，长内容获得更稳定的空间，并可在卡片内部滚动。
+
+- [下载 Android APK](https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.1/NotingWords-1.7.1.apk)
+- [查看完整更新说明](https://github.com/huwei040614/NotingWord-Releases/releases/tag/v1.7.1)
+- Android versionCode: `10701`，包名 `com.dongcidaci.app`，支持保留数据覆盖升级。
+- Private source tag `v1.7.1`: `c92db92cf84ce892318c41ffa8003f96cb42c6a9`。
+- Manual Gate PASS，2026-10-08。
+- 历史发布文件保持不变。
+
 ## NotingWords 1.7.0
 
 让每一次复习，都更有针对性。

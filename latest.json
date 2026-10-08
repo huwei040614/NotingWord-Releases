@@ -1,17 +1,15 @@
 {
-  "versionName": "1.7.0",
-  "versionCode": 10700,
+  "versionName": "1.7.1",
+  "versionCode": 10701,
   "channel": "stable",
   "changelog": [
-    "全新的学习洞察与最近 7 天学习报告。",
-    "识别薄弱词、反复遗忘与顽固词，了解需要强化的原因。",
-    "真实语境聚合与回到原文，支持易混词比较。",
-    "词族与搭配强化，以及更有针对性的强化学习。",
-    "恢复记忆与复习页面主动点击 AI 生成，支持加载、错误提示与重试。",
-    "已有内容与诊断离线可用，完善备份兼容与稳定性。"
+    "优化释义卡片在不同内容长度下的布局。",
+    "短释义保持紧凑，长内容拥有更充足的阅读空间。",
+    "较长内容支持卡片内部滚动，减少对其他区域的挤压。",
+    "提升不同释义长度下的 Android 实机显示稳定性。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.0/NotingWords-1.7.0.apk",
-  "sha256": "fbbe13fce74b95182d6cb7790c59607210456401139e9ff7851c715479cb2659",
-  "publishedAt": "2026-10-08T02:14:36Z",
-  "size": 54271898
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.1/NotingWords-1.7.1.apk",
+  "sha256": "e504a38ef872e5c260747abd8c57c8fb56d40c22009009aed80bad556f207a5e",
+  "publishedAt": "2026-10-08T09:51:11Z",
+  "size": 54272807
 }

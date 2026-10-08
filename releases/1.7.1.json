@@ -1,0 +1,23 @@
+{
+  "versionName": "1.7.1",
+  "versionCode": 10701,
+  "applicationId": "com.dongcidaci.app",
+  "channel": "stable",
+  "tag": "v1.7.1",
+  "sourceRepository": "huwei040614/NotingWords",
+  "sourceCommit": "c92db92cf84ce892318c41ffa8003f96cb42c6a9",
+  "certificateSha256": "dbb68280a2af02e40701a61fc9c3591ead2e60d752c3697172653b7c1bc2c1b9",
+  "artifacts": [
+    {
+      "name": "NotingWords-1.7.1.apk",
+      "size": 54272807,
+      "sha256": "e504a38ef872e5c260747abd8c57c8fb56d40c22009009aed80bad556f207a5e"
+    }
+  ],
+  "googlePlayUploaded": false,
+  "finalAndroidManualVerification": "PASS",
+  "manualAcceptanceDate": "2026-10-08",
+  "publishedAt": "2026-10-08T09:51:11Z",
+  "releaseUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/tag/v1.7.1",
+  "artifactFreeze": "FROZEN"
+}
