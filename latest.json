@@ -1,18 +1,17 @@
 {
-  "versionName": "1.6.0",
-  "versionCode": 10600,
+  "versionName": "1.7.0",
+  "versionCode": 10700,
   "channel": "stable",
   "changelog": [
-    "全新的单词学习与复习体验，学习进度更清晰",
-    "先回忆再显示答案，支持认识、模糊和忘记三种判断",
-    "认识后可用“记错了”修正，再进入下一词",
-    "例句支持滑动浏览，新词自动隐藏答案",
-    "优化首页、词汇列表、来源和筛选返回体验",
-    "完善学习统计、复习计划与阅读查词联动",
-    "保留原有词库、复习记录、设置与备份兼容性"
+    "全新的学习洞察与最近 7 天学习报告。",
+    "识别薄弱词、反复遗忘与顽固词，了解需要强化的原因。",
+    "真实语境聚合与回到原文，支持易混词比较。",
+    "词族与搭配强化，以及更有针对性的强化学习。",
+    "恢复记忆与复习页面主动点击 AI 生成，支持加载、错误提示与重试。",
+    "已有内容与诊断离线可用，完善备份兼容与稳定性。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.6.0/NotingWords-1.6.0.apk",
-  "sha256": "30bb757f20aa93d1bf8bae9aca7cbfd5e32cc3d1aff6484ce63a2b64f7dbbb6a",
-  "publishedAt": "2026-10-07T13:54:05Z",
-  "size": 54263559
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.0/NotingWords-1.7.0.apk",
+  "sha256": "fbbe13fce74b95182d6cb7790c59607210456401139e9ff7851c715479cb2659",
+  "publishedAt": "2026-10-08T02:14:36Z",
+  "size": 54271898
 }

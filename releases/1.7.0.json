@@ -21,5 +21,8 @@
     }
   ],
   "googlePlayUploaded": false,
-  "finalAndroidManualVerification": "PENDING"
+  "finalAndroidManualVerification": "PENDING",
+  "publishedAt": "2026-10-08T02:14:36Z",
+  "releaseUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/tag/v1.7.0",
+  "artifactFreeze": "FROZEN"
 }
