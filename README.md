@@ -1,6 +1,17 @@
 # NotingWord-Releases
 NotingWord release distribution and update metadata. Source code is not stored here.
 
+## NotingWords 1.7.0
+
+让每一次复习，都更有针对性。
+学习洞察与最近 7 天报告帮助找到值得强化的词，真实语境、易混比较、词族和搭配帮助重新理解。
+已有内容和诊断支持离线使用，正式复习继续沿用原有流程。记忆与复习页面恢复主动点击 AI 生成扩展内容。
+
+- [下载 Android APK](https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.0/NotingWords-1.7.0.apk)
+- [查看完整更新说明](https://github.com/huwei040614/NotingWord-Releases/releases/tag/v1.7.0)
+- Android versionCode: `10700`，包名 `com.dongcidaci.app`，支持保留数据覆盖升级。
+- Private source tag `v1.7.0`: `0978724a5259a9711dfefef9fd935255bd42cecc`。Phase21 PASS / FROZEN；历史发布文件保持不变。
+
 ## NotingWords 1.6.0
 
 升级单词学习与长期复习，支持到期复习、顽固词、先回忆再显示答案。
