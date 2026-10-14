@@ -1,15 +1,17 @@
 {
-  "versionName": "1.7.1",
-  "versionCode": 10701,
+  "versionName": "1.8.0",
+  "versionCode": 10800,
   "channel": "stable",
   "changelog": [
-    "优化释义卡片在不同内容长度下的布局。",
-    "短释义保持紧凑，长内容拥有更充足的阅读空间。",
-    "较长内容支持卡片内部滚动，减少对其他区域的挤压。",
-    "提升不同释义长度下的 Android 实机显示稳定性。"
+    "新增原著封面书架；选择电子书后自动解析并保存，无需填写书名、作者或简介。",
+    "支持 EPUB、TXT、DOCX、FB2、文字层 PDF，以及部分无 DRM 的 MOBI / AZW3 文件；扫描 PDF 沿用现有 OCR 路径。",
+    "阅读正文与书籍资料分开，目录、进度、书签和排版设置收纳在阅读器内部面板。",
+    "提供仿真翻页、左右滑动、上下滚动和覆盖翻页；优化卷页中的文字稳定性、下一页连续显示和收尾交接。",
+    "字号、页边距和行距采用滑块；提供书籍专属排版、离线字体、主题与阅读位置保持。",
+    "首页调整为固定页面，学习与复习操作位于底部；内置 90 句双语诗句，每日轮换，管理员可添加译句。",
+    "学习洞察统一图标、概览和强化列表；强化页固定顶部进度与底部切词操作，长详情在内容区内滚动。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.7.1/NotingWords-1.7.1.apk",
-  "sha256": "e504a38ef872e5c260747abd8c57c8fb56d40c22009009aed80bad556f207a5e",
-  "publishedAt": "2026-10-08T09:51:11Z",
-  "size": 54272807
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.0/NotingWords-1.8.0.apk",
+  "sha256": "aae28f875c38e849f88cda698c773640087dc3fd7dfd1adc9b9c17d42d400bcb",
+  "publishedAt": "2026-10-14T03:06:37Z"
 }
