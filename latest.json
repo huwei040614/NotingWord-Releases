@@ -1,14 +1,18 @@
 {
-  "versionName": "1.8.1",
-  "versionCode": 10801,
+  "versionName": "1.8.2",
+  "versionCode": 10802,
   "channel": "stable",
   "changelog": [
-    "阅读素材库新增刷新入口，便于获取最新发布内容。",
-    "优化无封面文章的占位显示，避免标记与标题重叠。",
-    "完善外刊正文图片的受控读取、完整性校验、失败重试和授权期内离线缓存。",
-    "保留阅读进度、收藏、词库和复习记录，支持从 1.8.0 原地升级。"
+    "修复旧版下载完成后无法进入安装流程的问题。",
+    "新增原生 APK 下载与完整性验证流程。",
+    "下载完成后可进入 Android 系统安装界面。",
+    "完善安装来源权限引导。",
+    "支持已下载 APK 恢复安装。",
+    "修复下载失败后重新尝试时的版本号类型问题。",
+    "优化下载、验证、安装和失败状态提示。",
+    "保持现有学习数据与阅读数据兼容。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.1/NotingWords-1.8.1.apk",
-  "sha256": "9765b66597ef9afef105d59cb4acb788bf73ebb797b9031b15277dc3019f6034",
-  "publishedAt": "2026-10-15T05:45:34Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.2/NotingWords-1.8.2.apk",
+  "sha256": "a9fc6227849a8a1bcd582bd5827a22f86ec57e4d73e08d74d231b753af6baa46",
+  "publishedAt": "2026-10-15T15:12:00Z"
 }
