@@ -1,17 +1,14 @@
 {
-  "versionName": "1.8.0",
-  "versionCode": 10800,
+  "versionName": "1.8.1",
+  "versionCode": 10801,
   "channel": "stable",
   "changelog": [
-    "新增原著封面书架；选择电子书后自动解析并保存，无需填写书名、作者或简介。",
-    "支持 EPUB、TXT、DOCX、FB2、文字层 PDF，以及部分无 DRM 的 MOBI / AZW3 文件；扫描 PDF 沿用现有 OCR 路径。",
-    "阅读正文与书籍资料分开，目录、进度、书签和排版设置收纳在阅读器内部面板。",
-    "提供仿真翻页、左右滑动、上下滚动和覆盖翻页；优化卷页中的文字稳定性、下一页连续显示和收尾交接。",
-    "字号、页边距和行距采用滑块；提供书籍专属排版、离线字体、主题与阅读位置保持。",
-    "首页调整为固定页面，学习与复习操作位于底部；内置 90 句双语诗句，每日轮换，管理员可添加译句。",
-    "学习洞察统一图标、概览和强化列表；强化页固定顶部进度与底部切词操作，长详情在内容区内滚动。"
+    "阅读素材库新增刷新入口，便于获取最新发布内容。",
+    "优化无封面文章的占位显示，避免标记与标题重叠。",
+    "完善外刊正文图片的受控读取、完整性校验、失败重试和授权期内离线缓存。",
+    "保留阅读进度、收藏、词库和复习记录，支持从 1.8.0 原地升级。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.0/NotingWords-1.8.0.apk",
-  "sha256": "aae28f875c38e849f88cda698c773640087dc3fd7dfd1adc9b9c17d42d400bcb",
-  "publishedAt": "2026-10-14T03:06:37Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.1/NotingWords-1.8.1.apk",
+  "sha256": "9765b66597ef9afef105d59cb4acb788bf73ebb797b9031b15277dc3019f6034",
+  "publishedAt": "2026-10-15T05:45:34Z"
 }
