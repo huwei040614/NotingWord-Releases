@@ -1,6 +1,15 @@
 # NotingWord-Releases
 NotingWord release distribution and update metadata. Source code is not stored here.
 
+## NotingWords 1.8.1
+
+外刊素材库刷新、封面占位与正文图片读取及离线缓存适配。新的图文内容仍需配套服务上线。
+
+- [下载 Android APK](https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.1/NotingWords-1.8.1.apk)
+- [完整更新说明](https://github.com/huwei040614/NotingWord-Releases/releases/tag/v1.8.1)
+- Android versionCode: `10801`；包名 `com.dongcidaci.app`；同签名升级保留本机数据。
+- 历史版本和资产保持不变。
+
 ## NotingWords 1.8.0
 
 原著封面书架、一键电子书导入、四种阅读模式、内置每日双语诗句，以及首页、学习洞察和固定强化页面更新。
