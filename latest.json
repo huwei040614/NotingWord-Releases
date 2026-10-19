@@ -1,18 +1,19 @@
 {
-  "versionName": "1.8.2",
-  "versionCode": 10802,
+  "versionName": "1.8.3",
+  "versionCode": 10803,
   "channel": "stable",
   "changelog": [
-    "修复旧版下载完成后无法进入安装流程的问题。",
-    "新增原生 APK 下载与完整性验证流程。",
-    "下载完成后可进入 Android 系统安装界面。",
-    "完善安装来源权限引导。",
-    "支持已下载 APK 恢复安装。",
-    "修复下载失败后重新尝试时的版本号类型问题。",
-    "优化下载、验证、安装和失败状态提示。",
-    "保持现有学习数据与阅读数据兼容。"
+    "恢复完整、可跳过的开屏动画，支持减少动态效果。",
+    "首页增加太阳/月亮日夜开关，默认墨绿，记住日间外观选择。",
+    "外观收敛为书卷、留白、星夜三套主题。",
+    "优化查词字体、排版和信息层级，减少核心义项、例句和搭配的折叠。",
+    "支持左右滑动切换查词页面和词典来源，保留按钮操作。",
+    "调整点击高亮、焦点和弹窗进出动效，修复更新提示按钮挤压。",
+    "修复正式 Web 构建中词典 Worker 的资源定位，保留本地导入能力。",
+    "整合此前已完成的原著书架、分章阅读和离线查词能力，保持现有学习与阅读数据兼容。",
+    "公开 APK 仅附带 MIT 基础词典；保留用户已保存的本机词典及扩展词典导入能力。"
   ],
-  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.2/NotingWords-1.8.2.apk",
-  "sha256": "a9fc6227849a8a1bcd582bd5827a22f86ec57e4d73e08d74d231b753af6baa46",
-  "publishedAt": "2026-10-15T15:12:00Z"
+  "apkUrl": "https://github.com/huwei040614/NotingWord-Releases/releases/download/v1.8.3/NotingWords-1.8.3.apk",
+  "sha256": "5aae71ac205c4d81d63ad341bf155f4f62f1674758bc68f3c6a0f9756ea0a387",
+  "publishedAt": "2026-10-19T15:40:45Z"
 }
